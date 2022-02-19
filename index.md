@@ -1,4 +1,3 @@
-
 Welcome to Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE)
 
 ## [EEKE2022](https://eeke-workshop.github.io/2022)
