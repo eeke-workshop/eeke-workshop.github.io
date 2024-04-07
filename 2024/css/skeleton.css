@@ -334,10 +334,9 @@ td:first-child {
   padding-left: 0; }
 th:last-child,
 td:last-child {
-	padding-right: 0;
-	font-weight: bold;
-	font-style: italic;
-	text-align: center;
+    padding-right: 0;
+    font-weight: bold;
+    font-style: italic;
 }
 
 
