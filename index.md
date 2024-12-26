@@ -1,5 +1,6 @@
 Welcome to Workshop on Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE)
 
+## [AII-EEKE2025](https://eeke-workshop.github.io/2025/)
 ## [EEKE-AII2024](https://eeke-workshop.github.io/2024)
 ## [EEKE-AII2023](https://eeke-workshop.github.io/2023)
 ## [EEKE2022](https://eeke-workshop.github.io/2022)
